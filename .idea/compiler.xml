@@ -9,6 +9,7 @@
         <module name="rabbotmq-publish-subscribe" />
         <module name="rabbotmq-helloworld" />
         <module name="rabbotmq-routing" />
+        <module name="rabbotmq-confirm" />
         <module name="rabbotmq-work-queues" />
         <module name="rabbotmq-topics" />
       </profile>
@@ -16,6 +17,7 @@
   </component>
   <component name="JavacSettings">
     <option name="ADDITIONAL_OPTIONS_OVERRIDE">
+      <module name="rabbotmq-confirm" options="-parameters" />
       <module name="rabbotmq-helloworld" options="-parameters" />
       <module name="rabbotmq-publish-subscribe" options="-parameters" />
       <module name="rabbotmq-routing" options="-parameters" />

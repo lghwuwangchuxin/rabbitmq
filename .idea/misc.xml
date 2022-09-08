@@ -9,6 +9,7 @@
         <option value="$PROJECT_DIR$/rabbotmq-publish-subscribe/pom.xml" />
         <option value="$PROJECT_DIR$/rabbotmq-routing/pom.xml" />
         <option value="$PROJECT_DIR$/rabbotmq-topics/pom.xml" />
+        <option value="$PROJECT_DIR$/rabbotmq-confirm/pom.xml" />
       </list>
     </option>
   </component>

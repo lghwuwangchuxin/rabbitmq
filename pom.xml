@@ -12,6 +12,7 @@
         <module>rabbotmq-publish-subscribe</module>
         <module>rabbotmq-routing</module>
         <module>rabbotmq-topics</module>
+        <module>rabbotmq-confirm</module>
     </modules>
     <packaging>pom</packaging>
     <parent>
