@@ -1,0 +1,3 @@
+# Project exclude paths
+/rabbotmq-helloworld/target/
+/rabbotmq-work-queues/target/
